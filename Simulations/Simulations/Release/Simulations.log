@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  Constants.cpp
+Constants.cpp(11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Constants.cpp(12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Constants.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Grid.cpp
+Grid.cpp(11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Grid.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Grid.cpp(21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Grid.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Grid.cpp(77): warning C4018: '<': signed/unsigned mismatch
+Grid.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Grid.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+Main.cpp(29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Particle.cpp
+Particle.cpp(9): warning C4930: 'Particle Vector2f(void)': prototyped function not called (was a variable definition intended?)
+  Simulations.cpp
+Simulations.cpp(20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Simulations.cpp(155): warning C4018: '<': signed/unsigned mismatch
+Simulations.cpp(205): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 392 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Simulations.vcxproj -> C:\Users\Mithun\source\repos\FINAL PROJECT\Simulations\Release\Simulations.exe

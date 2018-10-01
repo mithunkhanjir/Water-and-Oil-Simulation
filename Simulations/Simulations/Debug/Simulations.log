@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  Simulations.cpp
+c:\users\mithun\source\repos\simulations\simulations\simulations.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\simulations.cpp(55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\simulations.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\mithun\source\repos\simulations\simulations\simulations.cpp(241): warning C4018: '<': signed/unsigned mismatch
+  Particle.cpp
+c:\users\mithun\source\repos\simulations\simulations\particle.cpp(8): warning C4930: 'Particle Vector2f(void)': prototyped function not called (was a variable definition intended?)
+  Main.cpp
+c:\users\mithun\source\repos\simulations\simulations\main.cpp(25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Grid.cpp
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\grid.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Constants.cpp
+c:\users\mithun\source\repos\simulations\simulations\constants.cpp(10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\constants.cpp(11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mithun\source\repos\simulations\simulations\constants.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Simulations.vcxproj -> C:\Users\Mithun\source\repos\Simulations\Debug\Simulations.exe
